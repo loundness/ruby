@@ -7,3 +7,6 @@ Exercices du Jeudi sur le language RUBY
 
 - Exercice 4, "exo_04.rb" constate que la phrase s'ecrit en entier avec la syntaxe puts telle qu'il est ecrit sur le fichier et je constate une fleche sur la ligne en dessous
 
+- Exercice 5, "exo_05.rb", constate que la syntaxe #{} permet d'effectuer les calculs des operations comprisent dans cette dernière. Je constate que lorqu'on met un signe de comparaison < > on a un resultat de type booleen, vrai ou faux
+
+
