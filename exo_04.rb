@@ -1,1 +1,1 @@
-puts "samedi"
+puts "Salut, ça farte ?
