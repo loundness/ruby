@@ -18,4 +18,8 @@ Exercices du Jeudi sur le language RUBY
 
 - Exercice 7b, "exo_07b.rb", constate que sur la console la question est posée et que l'on peut inscrire son nom
 
+- Exercice 7c, "exo_07c.rb", constate que sur la console rien ne s'affiche juste un espace pour ecrire son nom 
 
+La difference entre les deux derniers exercices, c'est qu'avec la syntaxe puts "la phrase", la phrase s'affiche dans la console et qu'on ecrit le nom juste apres"print" suivit du signe ">", alors que dans le deuxieme exercice il n'y a rien d'afficher dans la console. 
+
+  
