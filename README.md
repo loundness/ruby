@@ -14,6 +14,6 @@ Exercices du Jeudi sur le language RUBY
 
 -Suite de l'exercice "exo_06.rb" pour le calcul des minutes, constate une erreur dans la console à la ligne 7, ou se trouve "number_of_minutes_in_an_hour", vu que ce n'est pas une variable ou du moins elle n'est pas enregistree en tant que telle
 
-- Exercice 7, "exo_07.rb", constate que sur la console je peux ecrire mon nom et en validant mon nom s'affiche sur la ligne en dessous. La syntaxe "gets.chomp" permet de demander d'ecrire un nom par exemple et .chomp permet d'eviter les caracteres "\n" precisant que l'on a appuyer sur entree"
+- Exercice 7, "exo_07a.rb", constate que sur la console je peux ecrire mon nom et en validant mon nom s'affiche sur la ligne en dessous. La syntaxe "gets.chomp" permet de demander d'ecrire un nom par exemple et .chomp permet d'eviter les caracteres "\n" precisant que l'on a appuyer sur entree"
 
 
