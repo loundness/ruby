@@ -9,4 +9,5 @@ Exercices du Jeudi sur le language RUBY
 
 - Exercice 5, "exo_05.rb", constate que la syntaxe #{} permet d'effectuer les calculs des operations comprisent dans cette dernière. Je constate que lorqu'on met un signe de comparaison < > on a un resultat de type booleen, vrai ou faux
 
+- Exercice 6, "exo_06.rb", constate le resultat de l'operation entre les accolades aves les differentes variables
 
