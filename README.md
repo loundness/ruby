@@ -22,4 +22,6 @@ Exercices du Jeudi sur le language RUBY
 
 La difference entre les deux derniers exercices, c'est qu'avec la syntaxe puts "la phrase", la phrase s'affiche dans la console et qu'on ecrit le nom juste apres"print" suivit du signe ">", alors que dans le deuxieme exercice il n'y a rien d'afficher dans la console. 
 
+- Exercice 8, "exo_08.rb", ecris un programme pour demander le prenom de l'utilisateur pour afficher "Bonjour + le prenom de l'utilisateur
+
   
