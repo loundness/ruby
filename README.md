@@ -24,4 +24,6 @@ La difference entre les deux derniers exercices, c'est qu'avec la syntaxe puts "
 
 - Exercice 8, "exo_08.rb", ecris un programme pour demander le prenom de l'utilisateur pour afficher "Bonjour + le prenom de l'utilisateur
 
-  
+- Exercice 9, "exo_09.rb", ecris un programme pour demander le prenom et le nom de l'utilisateur afin d'afficher "Bonjour, prenom et nom de l'utilisateur
+
+
